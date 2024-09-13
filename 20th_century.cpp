@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-main(){
+main()
+{
   system("color 57");
   cout << "*****                   00000    00000             ***********" << endl;
   cout << "******                 0     0  0     0            ********** " << endl;
