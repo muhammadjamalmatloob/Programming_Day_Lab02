@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-main(){
+main()
+{
   cout << "     *   *   *             " << endl;
   cout << "       *   *   *           " << endl;
   cout << "        *   *   *          " << endl;
